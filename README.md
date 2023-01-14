@@ -1,2 +1,3 @@
 # MoviesRecomendationEngine
-# Using Unsupervised Learning : NearestNeighbors
+#### Recommends movies based on the movie name you give.
+#### Using Unsupervised Learning : NearestNeighbors
